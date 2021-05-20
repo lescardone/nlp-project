@@ -1,4 +1,4 @@
-# Classification Project: Predicting Diabetes Mellitus
+# NLP UNSUPERVISED LEARNING: Recommending Literature Using Text Complexity
 
 ## Question/Need:
 *What is the framing question of your analysis, or the purpose of the model/system you plan to build?*
@@ -10,6 +10,7 @@
 As a learning of a second language, I have experienced the difficulty in breaking free of text book learning and diving into literature writen by and for native speakers of my target language.
 
 I hope by analyzing text complexity of English literature, I could better guide ESL learners to novels within their language abilities.
+The next step in this process would allow users to select a topic along with their text difficulty level for recommendations.
 
 If possible, I hope to expand this recommendation system to Chinese literature to help other students like myself, who are studying Chinese.
 
