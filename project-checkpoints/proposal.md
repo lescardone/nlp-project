@@ -7,7 +7,7 @@
 
 *Who benefits from exploring this question or building this model/system?*  
 
-As a learning of a second language, I have experienced the difficulty in breaking free of text book learning and diving into literature writen by and for native speakers of my target language.
+As a learner of a second language, I have experienced the difficulty in breaking free of text book learning and diving into literature written by and for native speakers of my target language.
 
 I hope by analyzing text complexity of English literature, I could better guide ESL learners to novels within their language abilities.
 The next step in this process would allow users to select a topic along with their text difficulty level for recommendations.
